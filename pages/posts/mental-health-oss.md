@@ -72,7 +72,7 @@ It's awesome to live in your own dream, and honestly, a privilege. But also, to 
 
 It's quite similar to "Make your hobby your job". It indeed has a great amount of benefits, like you will be more enjoyable and productive, but it also comes with obligations and responsibilities. When a hobby becomes a job, you lose the freedom to choose when and what to. Before, you would do your hobbies as after-work relaxation, but now when you want to relax with your hobbies, they become work.
 
-I was lucky that software development is a big field with many different things to do. Outside of the "main" open source project maintenance, I sometimes do some small projects ([Generative Art](https://100.antfu.me/), [Stable Diffusion](/posts/ai-qrcode), [some little experiments](/projects), etc.) for fun to refresh my mind (as a kind of "relax" from main projects). I also enjoy playing indie games a lot, while I keep thinking of getting serious about developing some games - but that's another story - at least now I still have some ways to escape when I really want to stay away from code.
+I was lucky that software development is a big field with many different things to do. Outside of the "main" open source project maintenance, I sometimes do some small projects ([Generative Art](https://100.me.algohaven.com/), [Stable Diffusion](/posts/ai-qrcode), [some little experiments](/projects), etc.) for fun to refresh my mind (as a kind of "relax" from main projects). I also enjoy playing indie games a lot, while I keep thinking of getting serious about developing some games - but that's another story - at least now I still have some ways to escape when I really want to stay away from code.
 
 I probably enjoy programming too much that I don't have strong feelings about this. The line between "work" and "fun" is quite blurry on my side. Sometimes, a fun project can become something serious that people rely on.
 
@@ -139,7 +139,7 @@ Maintaining good mental health is one of the important tasks for every open sour
 
 **Thank you** for reading through my messy and verbose thoughts until the end!
 
-I know my opinions must be heavily biased. If it ever triggers any thoughts or feelings for you, I am **curious to hear what you think or what are your ways**. You can leave some comments under this [tweet](https://twitter.com/antfu7/status/1768973757681438909) or [mastodon](https://elk.zone/m.webtoo.ls/@antfu/112105304547243075), or send me an email at hi@antfu.me if you prefer private conversations. Looking forward to hearing from you!
+I know my opinions must be heavily biased. If it ever triggers any thoughts or feelings for you, I am **curious to hear what you think or what are your ways**. You can leave some comments under this [tweet](https://twitter.com/antfu7/status/1768973757681438909) or [mastodon](https://elk.zone/m.webtoo.ls/@antfu/112105304547243075), or send me an email at hi@me.algohaven.com if you prefer private conversations. Looking forward to hearing from you!
 
 Meanwhile, there are actually many other things about open source I didn't get to talk about in this post. [Artem Zakharchenko](https://twitter.com/kettanaito) wrote a great article [The Dark Side of [Open Source](https://kettanaito.com/blog/the-dark-side-of-open-source), from different perspectives and points that I also resonate a lot with. Highly recommended to give it a read as well.
 

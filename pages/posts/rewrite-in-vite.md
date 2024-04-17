@@ -230,4 +230,4 @@ Appreciation to my sponsors as well for supporting my works:
 
 And thank you for reading through!
 
-**This site is now open sourced at [antfu/antfu.me](https://github.com/antfu/antfu.me)**
+**This site is now open sourced at [antfu/me.algohaven.com](https://github.com/antfu/me.algohaven.com)**

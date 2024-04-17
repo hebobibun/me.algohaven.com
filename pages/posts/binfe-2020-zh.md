@@ -11,17 +11,17 @@ duration: 25min
 >
 > This is the transcript of my talk at BinFE 2020
 >
-> Slides: [中文 ver.](https://antfu.me/talks/2020-09-26) | [English ver.](https://antfu.me/talks/2020-09-26/en)
+> Slides: [中文 ver.](https://me.algohaven.com/talks/2020-09-26) | [English ver.](https://me.algohaven.com/talks/2020-09-26/en)
 
 Hello 大家好，非常感谢丁香园这次的邀请，也非常荣幸能够参与这次的分享。我是第一次做这样的分享，不足之处还请多多指教。
 
 我这次分享的主题是 `import { reactive } from 'vue'`，和大家简单聊一聊 Vue 3 的响应式和组合式，以及他们的一些应用。
 
-我叫 Anthony Fu，是 Vue 的 Core Team 的一员，我在 Vue 主要负责 @vue/composition-api 这个项目的维护。这是一个面向 Vue 2 的插件，它在 Vue 2 中增加了 Vue 3 的 Composition API 的支持。我最近也加入了 Vite 负责一些 Code Review 的工作。可以在下面这些平台找到我。
+我叫 Muhammad Habibullah，是 Vue 的 Core Team 的一员，我在 Vue 主要负责 @vue/composition-api 这个项目的维护。这是一个面向 Vue 2 的插件，它在 Vue 2 中增加了 Vue 3 的 Composition API 的支持。我最近也加入了 Vite 负责一些 Code Review 的工作。可以在下面这些平台找到我。
 
 - GitHub [@antfu](https://github.com/antfu)
 - Twitter [@antfu7](https://twitter.com/antfu7)
-- Blog [antfu.me](https://antfu.me)
+- Blog [me.algohaven.com](https://me.algohaven.com)
 
 ### 介绍
 
@@ -119,7 +119,7 @@ function computed(getter) {
 }
 ```
 
-`computed` 接受一个 getter 函数，这个函数我们把它直接传给 `effect`，`effect`会在先执行一次进行依赖收集，在收集完了之后，如果里面其中的依赖发生了变动，他就会触发这个 `scheduler` 将 `dirty` 设置为 `true`。在最后我们在对 `computed` 进行求值的时候，如果 `dirty` 为 `true`，我们就会重新进行一次运算得到新的 `value` 后再把 `value` 传出去。在第二次调用时，如果里面的依赖没有更新，我们就可以直接用上一次计算的结果，这件可以避免掉多余重复的计算。这里有一些 [延伸阅读](https://antfu.me/posts/watch-with-reactivity/)，大家如果有兴趣去了解一些比较深入的原理的话也可以去看一看。
+`computed` 接受一个 getter 函数，这个函数我们把它直接传给 `effect`，`effect`会在先执行一次进行依赖收集，在收集完了之后，如果里面其中的依赖发生了变动，他就会触发这个 `scheduler` 将 `dirty` 设置为 `true`。在最后我们在对 `computed` 进行求值的时候，如果 `dirty` 为 `true`，我们就会重新进行一次运算得到新的 `value` 后再把 `value` 传出去。在第二次调用时，如果里面的依赖没有更新，我们就可以直接用上一次计算的结果，这件可以避免掉多余重复的计算。这里有一些 [延伸阅读](https://me.algohaven.com/posts/watch-with-reactivity/)，大家如果有兴趣去了解一些比较深入的原理的话也可以去看一看。
 
 ### 组合式 Composition API
 
@@ -455,4 +455,4 @@ data.value.hello = 'world'
 
 这些就是我现在正在做的一些探索，我觉得 Vue 的响应式系统非常的有趣，也相信未来还会有更多的的可能性和应用场景，希望可以和大家一起进行进一步的探索，找到一些有趣的使用方式和最佳实践。
 
-我的分享就到这里，如果有任何问题欢迎通过 hi@antfu.me 给我发送邮件。谢谢大家.
+我的分享就到这里，如果有任何问题欢迎通过 hi@me.algohaven.com 给我发送邮件。谢谢大家.

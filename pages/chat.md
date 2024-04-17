@@ -1,7 +1,7 @@
 ---
-title: Let's Chat - Anthony Fu
+title: Let's Chat - Muhammad Habibullah
 display: Let's Chat!
-image: https://antfu.me/og-chat.png
+image: https://me.algohaven.com/og-chat.png
 ---
 
 [中文 Chinese](/chat-zh)

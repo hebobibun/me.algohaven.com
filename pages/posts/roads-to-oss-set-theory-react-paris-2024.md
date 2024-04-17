@@ -10,6 +10,6 @@ recording: false
 duration: 25min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2024-03-22) | [SPA](https://talks.antfu.me/2024/reactparis)
+> Slides: [PDF](https://me.algohaven.com/talks/2024-03-22) | [SPA](https://talks.me.algohaven.com/2024/reactparis)
 >
 > Made with <Slidev class="inline"/> [**Slidev**](https://github.com/slidevjs/slidev) - presentation slides for developers.

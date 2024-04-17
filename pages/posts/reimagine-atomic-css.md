@@ -38,7 +38,7 @@ We are not going to talk about the pros and cons of using atomic CSS here, as yo
 
 ## The Background
 
-Before we start, let's talk a bit about the background. If you don't know me, my name is Anthony Fu, and I am a [Vite](https://vitejs.dev/) team member and the creator of [Vitesse](https://github.com/antfu/vitesse), one of the most popular starter templates for Vite. I enjoy the speedy development experience of atomic CSS (or CSS utilities), so I chose to use [Tailwind CSS](https://tailwindcss.com/) as the default UI framework for Vitesse. While Vite should be incredibly fast compared to Webpack and others, Tailwind, which generates megabytes of utility CSS, makes the start-up and HMR on Vite slow as the old days. I once thought this was some kind of trade-off for using atomic CSS solutions - until I discovered [Windi CSS](https://windicss.org).
+Before we start, let's talk a bit about the background. If you don't know me, my name is Muhammad Habibullah, and I am a [Vite](https://vitejs.dev/) team member and the creator of [Vitesse](https://github.com/antfu/vitesse), one of the most popular starter templates for Vite. I enjoy the speedy development experience of atomic CSS (or CSS utilities), so I chose to use [Tailwind CSS](https://tailwindcss.com/) as the default UI framework for Vitesse. While Vite should be incredibly fast compared to Webpack and others, Tailwind, which generates megabytes of utility CSS, makes the start-up and HMR on Vite slow as the old days. I once thought this was some kind of trade-off for using atomic CSS solutions - until I discovered [Windi CSS](https://windicss.org).
 
 <img src="/images/discover-windicss.png" class="transform scale-110 py-2"/>
 
@@ -570,7 +570,7 @@ UnoCSS is still in experiments. But given its simplicity, the generation result 
 
 It's not designed to be a replacement of Windi CSS or Tailwind (consider waiting for Windi CSS v4). We don't recommend migrating existing projects to UnoCSS completely. You can try it on new projects or use it as a complement along with your existing CSS framework (for example, disable default preset and use the icon preset solely for pure CSS icons, or make your custom rules).
 
-Oh btw, [the site you are reading](https://github.com/antfu/antfu.me) is now solely on UnoCSS, for you to reference :P.
+Oh btw, [the site you are reading](https://github.com/antfu/me.algohaven.com) is now solely on UnoCSS, for you to reference :P.
 
 Meanwhile, please feel free to share the presets you are making or help contribute to our default presets. We can't wait to see what you can come up with!
 
@@ -588,6 +588,6 @@ Appreciate the early review and feedback provided by (A-Z):
 
 ## Wrapping Up
 
-Thanks a lot for reading through! If it ever got you interested, do remember to check out the repo [`unocss/unocss`](https://github.com/unocss/unocss) for more details and play with it on the [**Online Playground**](https://unocss.antfu.me/).
+Thanks a lot for reading through! If it ever got you interested, do remember to check out the repo [`unocss/unocss`](https://github.com/unocss/unocss) for more details and play with it on the [**Online Playground**](https://unocss.me.algohaven.com/).
 
 Please feel free to comment or retweet [this tweet](https://twitter.com/antfu7/status/1452802545118711812) letting me know what you think! 🙌

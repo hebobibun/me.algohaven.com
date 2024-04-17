@@ -1,5 +1,5 @@
 ---
-title: Projects - Anthony Fu
+title: Projects - Muhammad Habibullah
 display: Projects
 description: List of projects that I am proud of
 wrapperClass: 'text-center'
@@ -258,13 +258,13 @@ projects:
 
   Games:
     - name: 'Handle 汉兜'
-      link: 'https://handle.antfu.me'
+      link: 'https://handle.me.algohaven.com'
       desc: 'A Chinese Hanzi variation of Wordle'
       icon: 'i-carbon-scatter-matrix'
 
   Design / Compform:
     - name: '100 Day'
-      link: 'https://100.antfu.me/'
+      link: 'https://100.me.algohaven.com/'
       desc: 'My 100 day challenge of exploring design, compform, and new things.'
       icon: 'i-carbon-app-switcher'
     - name: 'Codecember'
@@ -408,7 +408,7 @@ projects:
       desc: 'Iconify Explorer with Instant searching'
       icon: 'i-carbon-type-pattern'
     - name: 'QR Toolkit'
-      link: 'https://qrcode.antfu.me/'
+      link: 'https://qrcode.me.algohaven.com/'
       desc: 'Toolkit for QR code generation on stable diffusion'
       icon: 'i-carbon-qr-code'
     - name: 'rhein.'
@@ -420,7 +420,7 @@ projects:
       desc: 'A customizable Prism.js theme using CSS variables'
       icon: 'i-carbon-angle'
     - name: 'ReX'
-      link: 'https://rex.antfu.me/'
+      link: 'https://rex.me.algohaven.com/'
       desc: 'Transform texts with RegExp like a Pro'
       icon: 'i-carbon-text-align-mixed'
     - name: 'Foto Rehearser'
@@ -440,7 +440,7 @@ projects:
       desc: 'Group bills split made easy, fast and customizable'
       icon: 'i-carbon-share-knowledge'
     - name: 'BCP-47 tester'
-      link: 'https://bcp47.antfu.me/'
+      link: 'https://bcp47.me.algohaven.com/'
       desc: 'Online BCP-47 Tester & Normalizer'
       icon: 'i-carbon-earth-southeast-asia'
 

@@ -9,6 +9,6 @@ type: talk
 duration: 30min
 ---
 
-> Slides: [PDF](https://antfu.me/talks/2024-02-29) | [SPA](https://talks.antfu.me/2024/vue-amsterdam)
+> Slides: [PDF](https://me.algohaven.com/talks/2024-02-29) | [SPA](https://talks.me.algohaven.com/2024/vue-amsterdam)
 >
 > Made with <Slidev class="inline"/> [**Slidev**](https://github.com/slidevjs/slidev) - presentation slides for developers.
